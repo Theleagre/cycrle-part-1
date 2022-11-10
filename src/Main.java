@@ -58,7 +58,7 @@ public class Main {
             System.out.println("Месяц " + I + " сумма накоплений равна " + all + " рублей");
         }
         //Задание 2
-        System.out.println("Задание 2");
+        System.out.println("Задание2");
         int fee1 = 29000;
         int all1 = 0;
         for (int I = 1; I <= 12; I++) {
